@@ -1,0 +1,14 @@
+# JW Francis: Rock Band
+
+This repository is a collection of my songs for the JW Francis: Rock Band project.
+Each song will have full-band and full difficulties and will be tailored for use in RB4. (Will be converted to previous titles although they aren't the focus.)
+
+## [2018] I'll Love You Forever, Bye: (0/4)
+## [2020] We Share a Similar Joy: (0/11)
+## [2021] WANDERKID: (0/11)
+## [2023] Dream House: (0/12)
+## [2024] SUNSHINE: (0/12)
+
+# Bonus Songs
+
+## [2020] JW Christmas: (0/4)
