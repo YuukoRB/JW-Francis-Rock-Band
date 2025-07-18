@@ -1,4 +1,4 @@
-# JW Francis: Rock Band
+# JW FRANCIS: ROCK BAND
 
 This repository is a collection of my songs for the JW Francis: Rock Band project.
 Each song will have full-band and full difficulties and will be tailored for use in RB4. (Will be converted to previous titles although they aren't the focus.)
@@ -12,7 +12,7 @@ I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who 
 ## [2023] Dream House: (0/12)
 ## [2024] SUNSHINE: (0/12)
 
-# Bonus Songs
+# BONUS SONGS
 
 ## [2020] JW Christmas: (0/4)
 ## [2025] JW Francis on Audiotree Live: (0/4)
