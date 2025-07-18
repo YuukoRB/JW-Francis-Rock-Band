@@ -6,13 +6,14 @@ I will be starting with drums and then roll out updates to add the other instrum
 
 I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who licensed the album and founded the charting team. 
 
-## [2018] I'll Love You Forever, Bye: (0/4)
+## [2018] I'll Love You Forever, Bye: (2/4)
 * "I Found You"
 * "Joe Fusco"
 ## [2020] We Share a Similar Joy: (0/11)
 ## [2021] WANDERKID: (0/11)
-## [2023] Dream House: (0/12)
+## [2023] Dream House: (2/12)
 * "Dream Big"
+* "Sweet as a Rose"
 ## [2024] SUNSHINE: (0/12)
 * "Picture That"
 # BONUS SONGS
