@@ -7,7 +7,7 @@ I will be starting with drums and then roll out updates to add the other instrum
 I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who licensed the album and founded the charting team. 
 
 ## [2018] I'll Love You Forever, Bye: (0/4)
-* "Joe Fusco"  Drums: ![](https://github.com/YuukoRB/JW-Francis-Rock-Band/blob/main/dependencies/diff0.png?raw=true)
+* "Joe Fusco"
 ## [2020] We Share a Similar Joy: (0/11)
 ## [2021] WANDERKID: (0/11)
 ## [2023] Dream House: (0/12)
