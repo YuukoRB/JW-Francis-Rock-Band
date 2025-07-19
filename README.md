@@ -11,7 +11,8 @@ I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who 
 * "Joe Fusco"
 ## [2020] We Share a Similar Joy: (0/11)
 ## [2021] WANDERKID: (0/11)
-## [2023] Dream House: (2/12)
+## [2023] Dream House: (3/12)
+* "Going Home to a Party" (Harmonix)
 * "Dream Big"
 * "Sweet as a Rose"
 ## [2024] SUNSHINE: (0/12)
