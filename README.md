@@ -9,7 +9,8 @@ I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who 
 ## [2018] I'll Love You Forever, Bye: (2/4)
 * "I Found You"
 * "Joe Fusco"
-## [2020] We Share a Similar Joy: (0/11)
+## [2020] We Share a Similar Joy: (1/11)
+* "Everything"
 ## [2021] WANDERKID: (0/11)
 ## [2023] Dream House: (3/12)
 * "Going Home to a Party" (Harmonix)
