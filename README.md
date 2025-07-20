@@ -16,8 +16,9 @@ I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who 
 * "Going Home to a Party" (Harmonix)
 * "Dream Big"
 * "Sweet as a Rose"
-## [2024] SUNSHINE: (1/12)
-* "Picture That"
+## [2024] SUNSHINE: (2/12)
+* "Orbit"
+* "Picture That" 
 ## [2025] ICED MERLOT: (1/3)
 * "I Love You 2 (feat. Paul Cherry)"
 # BONUS SONGS
