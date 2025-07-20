@@ -18,7 +18,8 @@ I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who 
 * "Sweet as a Rose"
 ## [2024] SUNSHINE: (0/12)
 * "Picture That"
+## [2025] ICED MERLOT: (1/3)
+* "I Love You 2 (feat. Paul Cherry)"
 # BONUS SONGS
-
 ## [2020] JW Christmas: (0/4)
 ## [2025] JW Francis on Audiotree Live: (0/4)
