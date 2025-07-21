@@ -1,7 +1,7 @@
 # JW FRANCIS: ROCK BAND
 
 This repository is a collection of my songs for the JW Francis: Rock Band project.
-Each song will have full-band and full difficulties and will be tailored for use in RB4. (Will be converted to previous titles although they aren't the focus.)
+Each song will have full-band and full difficulties and will be tailored for use in RB2.
 I will be starting with drums and then roll out updates to add the other instruments.
 
 I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who licensed the album and founded the charting team. 
