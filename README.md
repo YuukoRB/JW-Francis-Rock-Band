@@ -6,6 +6,14 @@ I will be starting with drums and then roll out updates to add the other instrum
 
 I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who licensed the album and founded the charting team. 
 
+Percentages are based on how much has been charted.
+* 0% = Not started
+* 20% = Expert chart with hopos.
+* 40% = Two difficulties are finished.
+* 60% = Three difficulties are finished.
+* 80% = Four difficulties are finished.
+* 100% = Finished
+
 ## [2018] I'll Love You Forever, Bye: (2/4)
 * "I Found You"                             *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 0%)*
 * "Joe Fusco"                               *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 0%)*
@@ -24,11 +32,3 @@ I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who 
 # BONUS SONGS
 ## [2020] JW Christmas: (0/4)
 ## [2025] JW Francis on Audiotree Live: (0/4)
-
-Percentages are based on how much has been charted.
-0% = Not started
-20% = Expert chart with hopos.
-40% = Two difficulties are finished.
-60% = Three difficulties are finished.
-80% = Four difficulties are finished.
-100% = Finished
