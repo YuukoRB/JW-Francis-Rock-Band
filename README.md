@@ -20,7 +20,15 @@ I'm aware that WANDERKID was charted by the YARG charting team. I'm the one who 
 * "Orbit"                                   *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 0%)*
 * "Picture That"                            *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 0%)*
 ## [2025] ICED MERLOT: (1/3)
-* "I Love You 2 (feat. Paul Cherry)"        *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 25%)*
+* "I Love You 2 (feat. Paul Cherry)"        *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 40%)*
 # BONUS SONGS
 ## [2020] JW Christmas: (0/4)
 ## [2025] JW Francis on Audiotree Live: (0/4)
+
+Percentages are based on how much has been charted.
+0% = Not started
+20% = Expert chart with hopos.
+40% = Two difficulties are finished.
+60% = Three difficulties are finished.
+80% = Four difficulties are finished.
+100% = Finished
