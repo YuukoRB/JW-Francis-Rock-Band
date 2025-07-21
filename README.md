@@ -28,7 +28,7 @@ Percentages are based on how much has been charted.
 * "Orbit"                                   *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 0%)*
 * "Picture That"                            *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 0%)*
 ## [2025] ICED MERLOT: (1/3)
-* "I Love You 2 (feat. Paul Cherry)"        *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 40%)*
+* "I Love You 2 (feat. Paul Cherry)"        *(Guitar: 0%) (Drums: 100%) (Vocals: 0%) (Bass: 80%)*
 # BONUS SONGS
 ## [2020] JW Christmas: (0/4)
 ## [2025] JW Francis on Audiotree Live: (0/4)
